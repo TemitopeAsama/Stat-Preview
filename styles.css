@@ -46,12 +46,14 @@ h1 {
     font-family: 'Inter', 'sans-serif';
     color: hsl(0, 0%, 100%);
     margin-bottom: .8em;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 1.475rem;
     font-family: 'Inter', 'sans-serif';
     color: hsl(0, 0%, 100%);
+    font-weight: bold;
 }
 
 .stat-text p {
